@@ -75,17 +75,4 @@ The risk logic was implemented using `when` conditions and feature engineering i
 
 ---
 
-## 📚 Future Enhancements
 
-- Add interactive dashboards using Power BI or Tableau
-- Apply ML models for churn **prediction** (Logistic Regression, XGBoost)
-- Automate the pipeline using Apache Airflow or ADF
-
----
-
-## 🙋‍♀️ About Me
-
-👩‍💻 I’m Anjali Mane, a Data Engineer with experience in Azure Data Factory, Synapse Analytics, and Python. I built this project to demonstrate practical data transformation and analysis skills.
-
-📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/your-link/)  
-🌟 If you found this helpful, feel free to star the repo!
