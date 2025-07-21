@@ -23,7 +23,7 @@ spark = SparkSession.builder.appName('ChurnAnalysisSQL').getOrCreate()
 # In[10]:
 
 
-churn_df = spark.read.csv(r'D:\Pyspark\portfolio_projects\churn_data_analysis\churn_final.csv', header = True)
+churn_df = spark.read.csv(r'path\churn_final.csv', header = True)
 
 
 # In[11]:

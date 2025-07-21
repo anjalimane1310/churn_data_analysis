@@ -50,21 +50,21 @@ spark
 
 
 #to read customers.csv file and to read first row as column name
-df_customers = spark.read.csv(r'D:\Pyspark\portfolio_projects\churn_data_analysis\customers_large.csv', header = True)
+df_customers = spark.read.csv(r'path\customers_large.csv', header = True)
 
 
 # In[5]:
 
 
 #to read usage.csv file and to read first row as column name
-df_usage = spark.read.option('header','true').csv(r'D:\Pyspark\portfolio_projects\churn_data_analysis\usage_large.csv')
+df_usage = spark.read.option('header','true').csv(r'path\usage_large.csv')
 
 
 # In[6]:
 
 
 #to read complaints.csv file and to read first row as column name
-df_complaints = spark.read.option('header','true').csv(r'D:\Pyspark\portfolio_projects\churn_data_analysis\complaints_large.csv')
+df_complaints = spark.read.option('header','true').csv(r'path\complaints_large.csv')
 
 
 # ## Step 3: Data Cleaning
@@ -205,5 +205,5 @@ churn_final.printSchema()
 # In[36]:
 
 
-churn_final.toPandas().to_csv("D:/Pyspark/portfolio_projects/churn_data_analysis/churn_final.csv", index=False)
+churn_final.toPandas().to_csv("path\churn_final.csv", index=False)
 
