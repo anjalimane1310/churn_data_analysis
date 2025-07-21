@@ -1,0 +1,2042 @@
+customer_id,complaint_date,complaint_type
+C01896,2023-06-04,Activation delay
+C05820,2023-07-31,Poor network coverage
+C05820,2023-07-14,Billing discrepancy
+C05820,2023-07-11,Billing discrepancy
+C05398,2023-07-04,Activation delay
+C06675,2023-07-28,Overcharged bill
+C06675,2023-07-04,Overcharged bill
+C03443,2023-06-07,Overcharged bill
+C04419,2023-06-27,Billing discrepancy
+C04419,2023-07-28,Slow data speed
+C04419,2023-06-04,Slow data speed
+C00336,2023-07-28,Billing discrepancy
+C00336,2023-06-13,Poor network coverage
+C00336,2023-06-26,Poor network coverage
+C02289,2023-07-07,Poor network coverage
+C02289,2023-07-03,Activation delay
+C06216,2023-07-01,Overcharged bill
+C06216,2023-07-04,Slow data speed
+C06216,2023-07-22,Poor network coverage
+C01471,2023-07-22,Activation delay
+C01471,2023-06-26,Slow data speed
+C01471,2023-06-08,Poor network coverage
+C05416,2023-06-07,Billing discrepancy
+C05416,2023-06-12,Billing discrepancy
+C05130,2023-06-20,Call drop issue
+C05130,2023-07-04,Activation delay
+C07339,2023-06-23,Billing discrepancy
+C05548,2023-06-14,Call drop issue
+C05548,2023-06-15,Call drop issue
+C05548,2023-06-26,Overcharged bill
+C01242,2023-06-22,Call drop issue
+C01242,2023-06-04,Activation delay
+C01242,2023-06-30,Activation delay
+C01804,2023-06-04,Call drop issue
+C01804,2023-07-30,Activation delay
+C01804,2023-07-28,Activation delay
+C00639,2023-07-22,Poor network coverage
+C04217,2023-07-06,Overcharged bill
+C04217,2023-07-24,Overcharged bill
+C04217,2023-06-18,Activation delay
+C09957,2023-06-11,Activation delay
+C00197,2023-07-11,Billing discrepancy
+C00197,2023-07-26,Billing discrepancy
+C00197,2023-06-27,Slow data speed
+C00849,2023-06-27,Activation delay
+C08294,2023-07-13,Activation delay
+C06905,2023-07-05,Activation delay
+C06905,2023-06-23,Overcharged bill
+C00931,2023-07-15,Activation delay
+C00519,2023-07-10,Slow data speed
+C00519,2023-06-23,Billing discrepancy
+C00519,2023-06-02,Activation delay
+C01698,2023-07-31,Slow data speed
+C01698,2023-06-12,Activation delay
+C01698,2023-06-15,Overcharged bill
+C08102,2023-07-30,Billing discrepancy
+C09803,2023-06-11,Slow data speed
+C04707,2023-06-12,Billing discrepancy
+C04707,2023-06-04,Poor network coverage
+C04707,2023-06-26,Billing discrepancy
+C01144,2023-07-24,Poor network coverage
+C01144,2023-06-20,Activation delay
+C01144,2023-06-22,Billing discrepancy
+C05825,2023-07-30,Overcharged bill
+C01168,2023-07-11,Slow data speed
+C01168,2023-06-13,Overcharged bill
+C01168,2023-07-17,Activation delay
+C06056,2023-06-01,Overcharged bill
+C06056,2023-06-07,Overcharged bill
+C06667,2023-07-15,Call drop issue
+C06667,2023-07-14,Slow data speed
+C05507,2023-07-24,Poor network coverage
+C05507,2023-06-16,Activation delay
+C03448,2023-06-01,Call drop issue
+C03448,2023-06-13,Poor network coverage
+C03448,2023-06-28,Poor network coverage
+C08639,2023-07-06,Activation delay
+C08639,2023-07-20,Billing discrepancy
+C08639,2023-06-22,Slow data speed
+C04266,2023-06-24,Call drop issue
+C01986,2023-06-20,Overcharged bill
+C08419,2023-06-19,Activation delay
+C08419,2023-07-12,Poor network coverage
+C08419,2023-06-05,Poor network coverage
+C01214,2023-06-11,Billing discrepancy
+C00158,2023-06-23,Overcharged bill
+C00158,2023-07-13,Activation delay
+C00158,2023-06-09,Poor network coverage
+C03530,2023-06-28,Call drop issue
+C03530,2023-07-30,Call drop issue
+C02458,2023-06-04,Billing discrepancy
+C02458,2023-06-01,Overcharged bill
+C03903,2023-07-29,Slow data speed
+C03903,2023-07-06,Poor network coverage
+C03903,2023-06-05,Slow data speed
+C08269,2023-06-19,Slow data speed
+C08269,2023-06-23,Call drop issue
+C04324,2023-06-08,Activation delay
+C04324,2023-07-02,Billing discrepancy
+C04829,2023-06-13,Poor network coverage
+C04829,2023-07-21,Overcharged bill
+C08496,2023-06-06,Slow data speed
+C08496,2023-07-11,Poor network coverage
+C08496,2023-06-27,Billing discrepancy
+C02111,2023-06-03,Slow data speed
+C02111,2023-07-23,Slow data speed
+C06246,2023-06-04,Activation delay
+C06246,2023-06-12,Poor network coverage
+C06246,2023-06-12,Billing discrepancy
+C06097,2023-06-10,Poor network coverage
+C06097,2023-07-27,Overcharged bill
+C02128,2023-07-31,Activation delay
+C03144,2023-07-01,Activation delay
+C03144,2023-06-02,Overcharged bill
+C03487,2023-06-15,Overcharged bill
+C04039,2023-06-15,Billing discrepancy
+C08236,2023-06-15,Overcharged bill
+C08236,2023-07-30,Slow data speed
+C08236,2023-07-24,Overcharged bill
+C05083,2023-06-13,Activation delay
+C05083,2023-06-02,Overcharged bill
+C07791,2023-06-30,Call drop issue
+C07791,2023-06-29,Billing discrepancy
+C07791,2023-07-12,Poor network coverage
+C03268,2023-07-04,Billing discrepancy
+C03268,2023-07-08,Billing discrepancy
+C06277,2023-06-05,Poor network coverage
+C06277,2023-06-16,Activation delay
+C06277,2023-07-02,Slow data speed
+C00936,2023-07-22,Overcharged bill
+C00936,2023-07-13,Poor network coverage
+C00936,2023-06-22,Poor network coverage
+C00148,2023-07-10,Slow data speed
+C00148,2023-06-22,Call drop issue
+C00148,2023-06-13,Activation delay
+C04009,2023-07-08,Billing discrepancy
+C04009,2023-07-06,Slow data speed
+C04009,2023-06-07,Poor network coverage
+C07931,2023-07-31,Slow data speed
+C08697,2023-06-19,Overcharged bill
+C08697,2023-07-23,Activation delay
+C04358,2023-06-29,Billing discrepancy
+C04358,2023-06-17,Overcharged bill
+C04358,2023-06-05,Activation delay
+C04430,2023-06-16,Poor network coverage
+C04430,2023-07-14,Activation delay
+C08793,2023-06-26,Call drop issue
+C08793,2023-06-17,Overcharged bill
+C08793,2023-06-25,Slow data speed
+C04440,2023-07-07,Poor network coverage
+C04440,2023-07-12,Activation delay
+C05120,2023-06-04,Overcharged bill
+C05120,2023-06-07,Overcharged bill
+C05120,2023-06-29,Call drop issue
+C01041,2023-07-20,Call drop issue
+C06135,2023-06-28,Overcharged bill
+C06135,2023-07-09,Overcharged bill
+C06135,2023-06-11,Slow data speed
+C01483,2023-07-09,Overcharged bill
+C01483,2023-06-04,Overcharged bill
+C01483,2023-06-25,Overcharged bill
+C06353,2023-07-06,Overcharged bill
+C06353,2023-06-29,Overcharged bill
+C00612,2023-07-25,Slow data speed
+C00900,2023-06-04,Call drop issue
+C00900,2023-07-08,Billing discrepancy
+C00900,2023-06-19,Billing discrepancy
+C04263,2023-06-09,Slow data speed
+C02806,2023-06-01,Call drop issue
+C02806,2023-07-16,Overcharged bill
+C04449,2023-06-09,Poor network coverage
+C04449,2023-07-01,Activation delay
+C04449,2023-06-26,Billing discrepancy
+C03652,2023-07-28,Poor network coverage
+C03652,2023-06-16,Call drop issue
+C07296,2023-06-26,Activation delay
+C07296,2023-07-30,Slow data speed
+C07296,2023-07-16,Slow data speed
+C00806,2023-07-03,Overcharged bill
+C07524,2023-06-29,Slow data speed
+C07088,2023-07-11,Activation delay
+C07088,2023-06-18,Slow data speed
+C07088,2023-07-05,Overcharged bill
+C08373,2023-06-16,Slow data speed
+C04669,2023-07-21,Poor network coverage
+C08289,2023-07-11,Poor network coverage
+C01787,2023-07-27,Activation delay
+C01787,2023-06-19,Billing discrepancy
+C01787,2023-06-13,Activation delay
+C00725,2023-07-02,Poor network coverage
+C00725,2023-06-27,Slow data speed
+C06617,2023-06-03,Slow data speed
+C06617,2023-06-19,Overcharged bill
+C06617,2023-07-31,Call drop issue
+C04565,2023-06-04,Billing discrepancy
+C02225,2023-06-24,Slow data speed
+C02225,2023-07-09,Overcharged bill
+C02225,2023-06-10,Call drop issue
+C00308,2023-07-24,Billing discrepancy
+C06710,2023-07-06,Activation delay
+C06710,2023-07-18,Activation delay
+C07774,2023-06-03,Slow data speed
+C07774,2023-06-07,Call drop issue
+C03060,2023-07-28,Activation delay
+C07712,2023-06-25,Call drop issue
+C07712,2023-06-21,Activation delay
+C00668,2023-07-26,Activation delay
+C00668,2023-06-20,Overcharged bill
+C00726,2023-06-23,Overcharged bill
+C00726,2023-07-19,Activation delay
+C05148,2023-06-14,Overcharged bill
+C05148,2023-07-19,Billing discrepancy
+C07927,2023-07-01,Poor network coverage
+C02992,2023-07-01,Call drop issue
+C02992,2023-06-25,Poor network coverage
+C02992,2023-07-04,Overcharged bill
+C08520,2023-06-28,Poor network coverage
+C08953,2023-07-21,Billing discrepancy
+C08953,2023-06-08,Poor network coverage
+C05808,2023-07-06,Billing discrepancy
+C05813,2023-07-23,Slow data speed
+C05813,2023-07-06,Poor network coverage
+C05813,2023-06-19,Call drop issue
+C05261,2023-07-25,Slow data speed
+C05261,2023-07-11,Slow data speed
+C06538,2023-06-19,Billing discrepancy
+C06538,2023-06-25,Overcharged bill
+C07142,2023-07-07,Billing discrepancy
+C08321,2023-06-05,Poor network coverage
+C08321,2023-06-16,Call drop issue
+C08321,2023-07-06,Overcharged bill
+C08120,2023-06-09,Poor network coverage
+C08120,2023-06-02,Call drop issue
+C03630,2023-06-14,Billing discrepancy
+C03630,2023-07-15,Call drop issue
+C03630,2023-07-18,Overcharged bill
+C07054,2023-07-19,Overcharged bill
+C07506,2023-06-12,Billing discrepancy
+C07506,2023-06-30,Poor network coverage
+C08034,2023-07-11,Activation delay
+C08034,2023-06-20,Overcharged bill
+C05198,2023-06-19,Poor network coverage
+C01805,2023-07-30,Activation delay
+C01805,2023-07-10,Call drop issue
+C01805,2023-07-27,Overcharged bill
+C05734,2023-06-21,Poor network coverage
+C05734,2023-07-31,Call drop issue
+C05734,2023-07-12,Call drop issue
+C01199,2023-07-09,Poor network coverage
+C01199,2023-07-14,Billing discrepancy
+C08401,2023-07-13,Slow data speed
+C08401,2023-07-08,Overcharged bill
+C08401,2023-07-20,Activation delay
+C02549,2023-07-15,Billing discrepancy
+C02549,2023-06-04,Activation delay
+C07387,2023-07-04,Slow data speed
+C07387,2023-06-14,Slow data speed
+C04945,2023-07-09,Slow data speed
+C04718,2023-06-12,Billing discrepancy
+C04718,2023-06-22,Call drop issue
+C04942,2023-07-20,Slow data speed
+C04942,2023-07-20,Overcharged bill
+C00845,2023-06-29,Call drop issue
+C00845,2023-07-22,Billing discrepancy
+C04360,2023-07-12,Overcharged bill
+C04360,2023-07-16,Activation delay
+C01502,2023-06-30,Slow data speed
+C01502,2023-06-21,Slow data speed
+C06023,2023-06-06,Slow data speed
+C06023,2023-06-22,Billing discrepancy
+C06786,2023-06-27,Activation delay
+C06786,2023-07-20,Activation delay
+C06786,2023-06-12,Call drop issue
+C08776,2023-07-13,Activation delay
+C08776,2023-06-06,Activation delay
+C08776,2023-07-10,Poor network coverage
+C09290,2023-07-25,Billing discrepancy
+C09290,2023-07-28,Call drop issue
+C09290,2023-07-31,Billing discrepancy
+C01086,2023-07-11,Activation delay
+C01086,2023-07-11,Billing discrepancy
+C01086,2023-06-21,Overcharged bill
+C08495,2023-07-16,Billing discrepancy
+C08495,2023-07-13,Call drop issue
+C08495,2023-07-30,Billing discrepancy
+C00560,2023-07-23,Overcharged bill
+C00560,2023-07-17,Activation delay
+C08337,2023-07-25,Poor network coverage
+C08337,2023-06-06,Slow data speed
+C08337,2023-07-15,Poor network coverage
+C03885,2023-07-25,Call drop issue
+C03885,2023-07-29,Activation delay
+C03499,2023-07-19,Activation delay
+C03499,2023-06-16,Slow data speed
+C03499,2023-07-11,Activation delay
+C08457,2023-07-17,Activation delay
+C01802,2023-06-20,Slow data speed
+C01802,2023-06-21,Call drop issue
+C04531,2023-07-24,Overcharged bill
+C04036,2023-07-05,Billing discrepancy
+C04036,2023-06-02,Overcharged bill
+C04036,2023-07-28,Billing discrepancy
+C07389,2023-07-08,Billing discrepancy
+C07389,2023-06-22,Billing discrepancy
+C07389,2023-06-16,Overcharged bill
+C07941,2023-06-15,Activation delay
+C06067,2023-07-23,Poor network coverage
+C06067,2023-07-07,Overcharged bill
+C07883,2023-07-24,Activation delay
+C04625,2023-06-07,Activation delay
+C04625,2023-07-24,Billing discrepancy
+C04625,2023-07-29,Poor network coverage
+C08565,2023-07-28,Poor network coverage
+C08565,2023-07-03,Slow data speed
+C04198,2023-06-02,Billing discrepancy
+C08151,2023-06-09,Activation delay
+C08151,2023-07-19,Activation delay
+C08151,2023-06-01,Billing discrepancy
+C04699,2023-06-05,Overcharged bill
+C04699,2023-06-25,Poor network coverage
+C04699,2023-07-02,Activation delay
+C08547,2023-06-17,Overcharged bill
+C08547,2023-06-27,Poor network coverage
+C08547,2023-06-01,Poor network coverage
+C03640,2023-07-05,Overcharged bill
+C03640,2023-07-16,Overcharged bill
+C03640,2023-06-13,Slow data speed
+C04631,2023-06-29,Billing discrepancy
+C04631,2023-07-19,Activation delay
+C05203,2023-06-25,Call drop issue
+C03728,2023-06-12,Activation delay
+C01079,2023-06-15,Activation delay
+C01079,2023-07-20,Activation delay
+C01079,2023-07-18,Activation delay
+C01466,2023-06-28,Overcharged bill
+C01466,2023-06-07,Slow data speed
+C01466,2023-07-26,Overcharged bill
+C03536,2023-06-07,Activation delay
+C03536,2023-07-10,Slow data speed
+C02282,2023-06-09,Overcharged bill
+C02282,2023-07-09,Overcharged bill
+C02282,2023-07-05,Call drop issue
+C05029,2023-07-13,Slow data speed
+C05029,2023-07-15,Activation delay
+C05029,2023-06-02,Slow data speed
+C00070,2023-06-26,Billing discrepancy
+C00070,2023-06-19,Poor network coverage
+C05758,2023-06-26,Call drop issue
+C05758,2023-07-14,Slow data speed
+C05758,2023-07-14,Slow data speed
+C07652,2023-06-29,Activation delay
+C07652,2023-06-26,Overcharged bill
+C07652,2023-07-02,Activation delay
+C07670,2023-07-31,Call drop issue
+C06689,2023-06-02,Poor network coverage
+C06689,2023-07-30,Call drop issue
+C06689,2023-06-12,Poor network coverage
+C02144,2023-06-01,Overcharged bill
+C02144,2023-07-09,Poor network coverage
+C03171,2023-07-09,Slow data speed
+C03171,2023-06-13,Billing discrepancy
+C01499,2023-07-08,Overcharged bill
+C01499,2023-06-04,Slow data speed
+C01499,2023-07-26,Billing discrepancy
+C08370,2023-06-18,Call drop issue
+C08370,2023-06-13,Billing discrepancy
+C08370,2023-06-30,Slow data speed
+C05572,2023-07-03,Poor network coverage
+C05572,2023-07-07,Call drop issue
+C05572,2023-06-18,Slow data speed
+C06784,2023-06-06,Billing discrepancy
+C06784,2023-06-30,Slow data speed
+C02360,2023-06-25,Overcharged bill
+C02360,2023-06-04,Billing discrepancy
+C02360,2023-06-06,Call drop issue
+C08779,2023-06-07,Call drop issue
+C00413,2023-07-08,Call drop issue
+C00413,2023-07-19,Overcharged bill
+C00413,2023-06-02,Call drop issue
+C01447,2023-06-14,Billing discrepancy
+C01447,2023-06-18,Overcharged bill
+C01447,2023-07-21,Activation delay
+C01481,2023-07-13,Slow data speed
+C01481,2023-06-03,Slow data speed
+C01481,2023-07-30,Billing discrepancy
+C02669,2023-07-02,Poor network coverage
+C02669,2023-06-13,Billing discrepancy
+C02669,2023-07-30,Overcharged bill
+C02935,2023-06-05,Overcharged bill
+C02935,2023-06-10,Billing discrepancy
+C07565,2023-07-08,Call drop issue
+C07565,2023-06-26,Activation delay
+C02162,2023-07-31,Billing discrepancy
+C09600,2023-07-22,Activation delay
+C09600,2023-07-26,Overcharged bill
+C07024,2023-06-03,Billing discrepancy
+C08641,2023-06-05,Overcharged bill
+C08641,2023-06-12,Overcharged bill
+C08641,2023-07-14,Billing discrepancy
+C08513,2023-07-07,Poor network coverage
+C08513,2023-06-09,Activation delay
+C06086,2023-06-11,Poor network coverage
+C00946,2023-07-06,Slow data speed
+C06962,2023-07-23,Call drop issue
+C05230,2023-07-12,Billing discrepancy
+C04754,2023-06-06,Call drop issue
+C04754,2023-06-22,Overcharged bill
+C04754,2023-07-25,Slow data speed
+C04372,2023-07-13,Activation delay
+C01881,2023-06-06,Activation delay
+C01881,2023-06-22,Slow data speed
+C01881,2023-06-11,Billing discrepancy
+C08476,2023-07-29,Billing discrepancy
+C08927,2023-07-29,Activation delay
+C03365,2023-06-20,Activation delay
+C03365,2023-06-13,Poor network coverage
+C07911,2023-07-08,Poor network coverage
+C05003,2023-07-14,Call drop issue
+C09221,2023-07-10,Overcharged bill
+C09221,2023-06-16,Activation delay
+C09221,2023-06-22,Slow data speed
+C06592,2023-06-04,Activation delay
+C08258,2023-06-01,Slow data speed
+C08258,2023-06-05,Billing discrepancy
+C08258,2023-07-12,Activation delay
+C08707,2023-06-08,Activation delay
+C09393,2023-07-13,Activation delay
+C09393,2023-06-22,Slow data speed
+C09393,2023-06-10,Billing discrepancy
+C02843,2023-06-25,Poor network coverage
+C02843,2023-07-27,Billing discrepancy
+C02843,2023-07-27,Activation delay
+C03163,2023-06-18,Call drop issue
+C03163,2023-07-06,Poor network coverage
+C03163,2023-07-10,Poor network coverage
+C04455,2023-06-09,Call drop issue
+C04455,2023-06-01,Poor network coverage
+C05577,2023-06-02,Overcharged bill
+C05577,2023-06-12,Overcharged bill
+C05577,2023-07-03,Activation delay
+C00623,2023-07-24,Activation delay
+C01140,2023-06-25,Overcharged bill
+C01140,2023-06-26,Call drop issue
+C01140,2023-06-17,Billing discrepancy
+C08922,2023-06-29,Call drop issue
+C08922,2023-07-16,Overcharged bill
+C07420,2023-06-12,Billing discrepancy
+C07420,2023-06-01,Billing discrepancy
+C07420,2023-07-26,Overcharged bill
+C01040,2023-06-01,Activation delay
+C01040,2023-06-20,Slow data speed
+C01463,2023-07-27,Poor network coverage
+C01463,2023-06-22,Call drop issue
+C01463,2023-06-03,Activation delay
+C06532,2023-06-06,Poor network coverage
+C05253,2023-06-17,Activation delay
+C05253,2023-06-16,Billing discrepancy
+C09919,2023-06-14,Overcharged bill
+C09919,2023-06-02,Billing discrepancy
+C06475,2023-06-25,Billing discrepancy
+C03000,2023-07-18,Slow data speed
+C00972,2023-07-12,Activation delay
+C01031,2023-06-22,Call drop issue
+C01031,2023-07-15,Poor network coverage
+C01031,2023-07-12,Slow data speed
+C09785,2023-06-22,Overcharged bill
+C09785,2023-07-29,Activation delay
+C09785,2023-07-17,Poor network coverage
+C05581,2023-06-16,Overcharged bill
+C05581,2023-07-31,Activation delay
+C05246,2023-06-27,Slow data speed
+C05246,2023-07-19,Activation delay
+C05246,2023-06-17,Overcharged bill
+C07255,2023-07-20,Poor network coverage
+C07255,2023-07-14,Billing discrepancy
+C01482,2023-07-31,Activation delay
+C01482,2023-07-10,Billing discrepancy
+C01482,2023-07-06,Slow data speed
+C00241,2023-07-19,Call drop issue
+C00098,2023-06-09,Slow data speed
+C00098,2023-06-04,Overcharged bill
+C00098,2023-07-11,Activation delay
+C02367,2023-07-16,Activation delay
+C02367,2023-06-03,Billing discrepancy
+C03160,2023-07-14,Overcharged bill
+C03160,2023-07-21,Slow data speed
+C03160,2023-07-29,Slow data speed
+C08986,2023-07-03,Billing discrepancy
+C08986,2023-07-26,Activation delay
+C00391,2023-07-29,Billing discrepancy
+C00391,2023-06-22,Poor network coverage
+C00391,2023-07-06,Poor network coverage
+C02687,2023-07-13,Overcharged bill
+C02687,2023-07-01,Poor network coverage
+C02687,2023-07-15,Billing discrepancy
+C05537,2023-06-07,Call drop issue
+C05537,2023-06-19,Slow data speed
+C09202,2023-07-16,Activation delay
+C02106,2023-06-05,Call drop issue
+C02106,2023-07-25,Overcharged bill
+C03966,2023-06-20,Billing discrepancy
+C03966,2023-07-10,Activation delay
+C03966,2023-07-08,Billing discrepancy
+C09452,2023-06-19,Overcharged bill
+C09452,2023-07-03,Overcharged bill
+C09452,2023-07-07,Overcharged bill
+C07755,2023-06-02,Activation delay
+C00788,2023-07-12,Slow data speed
+C00788,2023-07-27,Poor network coverage
+C09663,2023-07-12,Activation delay
+C09663,2023-06-19,Activation delay
+C06782,2023-06-17,Call drop issue
+C04795,2023-07-10,Billing discrepancy
+C04795,2023-06-05,Poor network coverage
+C04795,2023-07-12,Poor network coverage
+C08973,2023-07-30,Billing discrepancy
+C08973,2023-07-08,Poor network coverage
+C08973,2023-06-10,Call drop issue
+C04624,2023-07-25,Slow data speed
+C04624,2023-06-15,Overcharged bill
+C04624,2023-07-08,Overcharged bill
+C08436,2023-07-27,Call drop issue
+C08436,2023-06-18,Call drop issue
+C08436,2023-07-23,Slow data speed
+C04521,2023-07-02,Billing discrepancy
+C04521,2023-07-15,Slow data speed
+C08283,2023-07-29,Activation delay
+C07147,2023-06-18,Overcharged bill
+C07147,2023-07-31,Billing discrepancy
+C09960,2023-07-07,Activation delay
+C09960,2023-06-04,Slow data speed
+C06402,2023-06-18,Billing discrepancy
+C06185,2023-06-15,Slow data speed
+C06185,2023-07-02,Billing discrepancy
+C00447,2023-06-06,Overcharged bill
+C00447,2023-07-05,Billing discrepancy
+C00447,2023-07-18,Poor network coverage
+C04660,2023-07-27,Activation delay
+C09498,2023-07-04,Activation delay
+C06460,2023-07-01,Activation delay
+C06460,2023-06-07,Call drop issue
+C04977,2023-07-09,Poor network coverage
+C04290,2023-07-05,Overcharged bill
+C04078,2023-06-12,Poor network coverage
+C06442,2023-06-09,Overcharged bill
+C06442,2023-07-28,Billing discrepancy
+C01810,2023-06-30,Billing discrepancy
+C01810,2023-06-14,Activation delay
+C09355,2023-07-12,Slow data speed
+C09355,2023-06-11,Overcharged bill
+C09355,2023-06-04,Call drop issue
+C07209,2023-07-20,Call drop issue
+C02518,2023-06-30,Slow data speed
+C02518,2023-06-12,Overcharged bill
+C02518,2023-06-07,Slow data speed
+C06878,2023-07-01,Poor network coverage
+C06878,2023-06-19,Overcharged bill
+C00848,2023-06-20,Activation delay
+C05601,2023-07-28,Poor network coverage
+C05601,2023-06-07,Poor network coverage
+C05610,2023-07-05,Poor network coverage
+C05610,2023-06-10,Billing discrepancy
+C09042,2023-07-17,Overcharged bill
+C07013,2023-07-29,Activation delay
+C07013,2023-06-10,Activation delay
+C08794,2023-07-06,Slow data speed
+C08794,2023-06-27,Poor network coverage
+C04359,2023-07-20,Overcharged bill
+C01575,2023-07-02,Poor network coverage
+C01864,2023-06-03,Activation delay
+C01864,2023-07-07,Poor network coverage
+C06921,2023-06-25,Billing discrepancy
+C06921,2023-07-22,Activation delay
+C08675,2023-06-14,Call drop issue
+C08675,2023-07-07,Billing discrepancy
+C00591,2023-07-08,Slow data speed
+C07371,2023-06-12,Overcharged bill
+C07371,2023-06-19,Call drop issue
+C04043,2023-06-26,Overcharged bill
+C04043,2023-07-07,Billing discrepancy
+C06321,2023-06-22,Call drop issue
+C03122,2023-07-21,Poor network coverage
+C06582,2023-06-09,Activation delay
+C06582,2023-07-28,Billing discrepancy
+C08799,2023-06-27,Call drop issue
+C08799,2023-06-01,Activation delay
+C00108,2023-06-05,Activation delay
+C00448,2023-07-21,Activation delay
+C00448,2023-06-29,Activation delay
+C00448,2023-07-30,Overcharged bill
+C09007,2023-06-01,Activation delay
+C09007,2023-07-22,Call drop issue
+C09007,2023-07-19,Call drop issue
+C09988,2023-06-06,Poor network coverage
+C08275,2023-07-15,Call drop issue
+C08275,2023-07-01,Activation delay
+C02054,2023-07-06,Billing discrepancy
+C02054,2023-07-30,Overcharged bill
+C02054,2023-07-08,Call drop issue
+C01480,2023-06-13,Call drop issue
+C04442,2023-07-07,Poor network coverage
+C04862,2023-07-04,Overcharged bill
+C09802,2023-07-05,Billing discrepancy
+C09802,2023-07-22,Poor network coverage
+C06143,2023-06-02,Activation delay
+C04168,2023-06-17,Billing discrepancy
+C04168,2023-06-08,Call drop issue
+C04168,2023-07-04,Billing discrepancy
+C03568,2023-07-28,Slow data speed
+C00389,2023-07-29,Billing discrepancy
+C00389,2023-07-15,Call drop issue
+C00389,2023-06-16,Slow data speed
+C08997,2023-07-11,Call drop issue
+C08997,2023-07-07,Billing discrepancy
+C08997,2023-07-11,Poor network coverage
+C07469,2023-06-24,Poor network coverage
+C08915,2023-06-24,Slow data speed
+C08915,2023-07-15,Billing discrepancy
+C08915,2023-06-30,Overcharged bill
+C02570,2023-06-30,Call drop issue
+C02570,2023-07-23,Overcharged bill
+C02570,2023-06-30,Overcharged bill
+C08804,2023-07-06,Call drop issue
+C05400,2023-06-02,Call drop issue
+C09445,2023-06-09,Poor network coverage
+C04074,2023-06-23,Poor network coverage
+C04074,2023-07-14,Slow data speed
+C06272,2023-06-03,Activation delay
+C09112,2023-06-10,Billing discrepancy
+C09112,2023-06-27,Slow data speed
+C09112,2023-07-03,Billing discrepancy
+C09954,2023-06-24,Poor network coverage
+C03010,2023-06-02,Slow data speed
+C03010,2023-07-05,Call drop issue
+C01643,2023-06-19,Slow data speed
+C01319,2023-06-03,Poor network coverage
+C05523,2023-06-28,Activation delay
+C09337,2023-07-08,Slow data speed
+C09337,2023-06-06,Billing discrepancy
+C09337,2023-07-16,Overcharged bill
+C07871,2023-07-15,Call drop issue
+C03145,2023-06-28,Overcharged bill
+C03145,2023-06-19,Billing discrepancy
+C03145,2023-06-22,Billing discrepancy
+C08486,2023-06-24,Overcharged bill
+C08486,2023-06-19,Slow data speed
+C08486,2023-07-15,Poor network coverage
+C05328,2023-07-13,Activation delay
+C02341,2023-07-23,Billing discrepancy
+C02341,2023-06-04,Overcharged bill
+C02341,2023-07-13,Slow data speed
+C07032,2023-07-30,Billing discrepancy
+C07032,2023-06-11,Slow data speed
+C03231,2023-07-16,Overcharged bill
+C03231,2023-06-17,Poor network coverage
+C03231,2023-07-02,Slow data speed
+C02456,2023-06-10,Billing discrepancy
+C08274,2023-06-07,Slow data speed
+C07611,2023-07-23,Billing discrepancy
+C00322,2023-07-07,Slow data speed
+C09128,2023-07-31,Poor network coverage
+C00495,2023-07-26,Call drop issue
+C00495,2023-06-20,Call drop issue
+C07327,2023-06-01,Call drop issue
+C07327,2023-06-01,Activation delay
+C07327,2023-06-30,Activation delay
+C04928,2023-07-08,Poor network coverage
+C04928,2023-06-07,Poor network coverage
+C09165,2023-07-14,Slow data speed
+C09165,2023-07-04,Poor network coverage
+C09165,2023-07-11,Call drop issue
+C05809,2023-06-14,Billing discrepancy
+C05809,2023-07-26,Activation delay
+C02551,2023-06-21,Billing discrepancy
+C03020,2023-07-03,Call drop issue
+C00443,2023-07-05,Call drop issue
+C00443,2023-06-12,Overcharged bill
+C00443,2023-07-08,Poor network coverage
+C06211,2023-06-14,Activation delay
+C06211,2023-06-07,Call drop issue
+C09689,2023-06-21,Poor network coverage
+C04805,2023-07-31,Call drop issue
+C04805,2023-07-21,Billing discrepancy
+C04805,2023-07-08,Call drop issue
+C05441,2023-07-07,Poor network coverage
+C05441,2023-07-28,Overcharged bill
+C05441,2023-07-22,Slow data speed
+C04468,2023-06-11,Activation delay
+C04468,2023-06-23,Call drop issue
+C04468,2023-07-18,Call drop issue
+C09344,2023-06-05,Poor network coverage
+C09344,2023-06-28,Billing discrepancy
+C09344,2023-06-11,Call drop issue
+C09859,2023-07-30,Activation delay
+C09859,2023-06-19,Call drop issue
+C07006,2023-06-23,Activation delay
+C07006,2023-06-18,Activation delay
+C09154,2023-06-05,Poor network coverage
+C09154,2023-06-08,Poor network coverage
+C03045,2023-06-21,Overcharged bill
+C03045,2023-06-06,Activation delay
+C00696,2023-07-11,Poor network coverage
+C00696,2023-06-13,Overcharged bill
+C00696,2023-06-22,Billing discrepancy
+C07846,2023-06-14,Overcharged bill
+C07846,2023-07-06,Activation delay
+C07846,2023-06-13,Call drop issue
+C03004,2023-06-30,Activation delay
+C03788,2023-06-27,Billing discrepancy
+C03788,2023-07-21,Slow data speed
+C03788,2023-06-21,Billing discrepancy
+C01777,2023-07-02,Slow data speed
+C01777,2023-07-22,Activation delay
+C06506,2023-07-13,Overcharged bill
+C06506,2023-07-19,Activation delay
+C02248,2023-06-04,Billing discrepancy
+C07606,2023-07-27,Call drop issue
+C07606,2023-07-30,Poor network coverage
+C07606,2023-07-25,Overcharged bill
+C00822,2023-07-12,Billing discrepancy
+C02780,2023-06-13,Poor network coverage
+C06270,2023-06-13,Overcharged bill
+C00710,2023-06-01,Overcharged bill
+C00710,2023-07-05,Overcharged bill
+C00710,2023-07-30,Billing discrepancy
+C08268,2023-07-16,Poor network coverage
+C04740,2023-06-30,Billing discrepancy
+C00328,2023-07-08,Poor network coverage
+C00328,2023-07-02,Billing discrepancy
+C00328,2023-06-13,Billing discrepancy
+C03398,2023-07-15,Poor network coverage
+C00265,2023-06-15,Poor network coverage
+C00265,2023-07-17,Billing discrepancy
+C00265,2023-07-16,Activation delay
+C03434,2023-07-07,Activation delay
+C05817,2023-07-30,Activation delay
+C09352,2023-06-10,Call drop issue
+C09352,2023-07-03,Slow data speed
+C09352,2023-07-07,Call drop issue
+C07544,2023-07-04,Activation delay
+C07544,2023-07-21,Overcharged bill
+C05450,2023-06-14,Slow data speed
+C06941,2023-07-15,Billing discrepancy
+C00483,2023-06-14,Activation delay
+C00483,2023-07-31,Overcharged bill
+C00483,2023-07-01,Slow data speed
+C06227,2023-07-10,Overcharged bill
+C06227,2023-06-27,Billing discrepancy
+C03483,2023-07-06,Slow data speed
+C03483,2023-06-26,Overcharged bill
+C03483,2023-07-15,Overcharged bill
+C07426,2023-07-01,Call drop issue
+C00648,2023-07-25,Overcharged bill
+C00648,2023-06-17,Poor network coverage
+C00648,2023-07-21,Billing discrepancy
+C07461,2023-07-10,Call drop issue
+C06357,2023-07-07,Slow data speed
+C09089,2023-06-29,Slow data speed
+C09089,2023-07-05,Slow data speed
+C09726,2023-06-30,Slow data speed
+C09726,2023-07-30,Call drop issue
+C09726,2023-07-18,Poor network coverage
+C09679,2023-06-01,Poor network coverage
+C09679,2023-07-27,Call drop issue
+C06131,2023-07-28,Call drop issue
+C06131,2023-07-20,Call drop issue
+C08781,2023-06-10,Call drop issue
+C08781,2023-06-19,Billing discrepancy
+C08781,2023-06-25,Call drop issue
+C00041,2023-06-02,Billing discrepancy
+C00041,2023-06-28,Billing discrepancy
+C07412,2023-07-28,Overcharged bill
+C07412,2023-07-23,Call drop issue
+C07412,2023-07-25,Call drop issue
+C09478,2023-06-06,Billing discrepancy
+C05824,2023-06-06,Overcharged bill
+C05824,2023-06-29,Billing discrepancy
+C05824,2023-07-19,Billing discrepancy
+C04426,2023-06-06,Poor network coverage
+C04426,2023-06-04,Activation delay
+C04426,2023-07-13,Slow data speed
+C07919,2023-07-21,Billing discrepancy
+C08836,2023-06-23,Poor network coverage
+C01021,2023-06-17,Activation delay
+C04746,2023-07-10,Poor network coverage
+C06021,2023-06-23,Poor network coverage
+C06021,2023-06-18,Slow data speed
+C06021,2023-07-06,Overcharged bill
+C07025,2023-06-30,Poor network coverage
+C07025,2023-06-05,Activation delay
+C07025,2023-06-14,Billing discrepancy
+C05846,2023-06-12,Call drop issue
+C05846,2023-06-10,Call drop issue
+C04762,2023-07-20,Billing discrepancy
+C04762,2023-06-09,Activation delay
+C04762,2023-07-10,Call drop issue
+C00855,2023-06-15,Activation delay
+C00855,2023-06-29,Activation delay
+C08512,2023-06-07,Billing discrepancy
+C08512,2023-06-14,Overcharged bill
+C03333,2023-07-07,Billing discrepancy
+C03333,2023-06-05,Slow data speed
+C03333,2023-06-07,Slow data speed
+C06078,2023-07-20,Slow data speed
+C06078,2023-07-23,Call drop issue
+C06078,2023-07-04,Slow data speed
+C00527,2023-06-20,Activation delay
+C00527,2023-07-12,Slow data speed
+C00527,2023-07-18,Slow data speed
+C03642,2023-06-04,Billing discrepancy
+C01046,2023-06-11,Call drop issue
+C01046,2023-07-10,Activation delay
+C01954,2023-07-05,Slow data speed
+C01954,2023-07-14,Overcharged bill
+C01954,2023-07-20,Overcharged bill
+C03559,2023-06-07,Billing discrepancy
+C03559,2023-06-18,Slow data speed
+C03559,2023-06-08,Activation delay
+C05177,2023-06-08,Slow data speed
+C01504,2023-06-25,Billing discrepancy
+C01504,2023-06-17,Activation delay
+C00456,2023-07-08,Overcharged bill
+C06209,2023-06-02,Call drop issue
+C06209,2023-07-29,Slow data speed
+C06209,2023-06-10,Activation delay
+C04543,2023-07-13,Activation delay
+C04543,2023-06-08,Billing discrepancy
+C00819,2023-07-15,Poor network coverage
+C00819,2023-07-23,Slow data speed
+C00819,2023-06-25,Activation delay
+C01783,2023-07-12,Activation delay
+C02552,2023-06-22,Poor network coverage
+C00795,2023-06-02,Billing discrepancy
+C00795,2023-06-20,Poor network coverage
+C00795,2023-06-27,Poor network coverage
+C06806,2023-06-17,Overcharged bill
+C04323,2023-07-14,Activation delay
+C04323,2023-07-11,Poor network coverage
+C04323,2023-07-31,Call drop issue
+C00251,2023-07-03,Slow data speed
+C06499,2023-06-11,Activation delay
+C09738,2023-07-24,Slow data speed
+C09738,2023-06-06,Call drop issue
+C05849,2023-07-09,Poor network coverage
+C05849,2023-07-30,Billing discrepancy
+C01446,2023-06-24,Slow data speed
+C01446,2023-07-04,Billing discrepancy
+C01446,2023-06-12,Activation delay
+C07329,2023-07-10,Activation delay
+C07329,2023-07-01,Billing discrepancy
+C07329,2023-06-25,Activation delay
+C00758,2023-06-07,Activation delay
+C00758,2023-07-30,Overcharged bill
+C00758,2023-06-04,Overcharged bill
+C00235,2023-07-22,Poor network coverage
+C00235,2023-07-17,Poor network coverage
+C00235,2023-07-14,Activation delay
+C09550,2023-07-04,Billing discrepancy
+C09550,2023-06-13,Activation delay
+C09550,2023-06-05,Billing discrepancy
+C00352,2023-07-11,Call drop issue
+C06427,2023-06-13,Activation delay
+C06427,2023-06-25,Overcharged bill
+C06427,2023-06-25,Billing discrepancy
+C09014,2023-06-24,Call drop issue
+C09014,2023-06-23,Activation delay
+C07356,2023-07-08,Poor network coverage
+C07631,2023-07-29,Billing discrepancy
+C01912,2023-07-13,Billing discrepancy
+C01912,2023-06-27,Slow data speed
+C01912,2023-06-28,Call drop issue
+C06733,2023-06-14,Poor network coverage
+C02492,2023-06-12,Poor network coverage
+C06051,2023-07-14,Billing discrepancy
+C06051,2023-07-21,Call drop issue
+C06051,2023-07-23,Slow data speed
+C00388,2023-07-03,Poor network coverage
+C00388,2023-06-02,Call drop issue
+C08975,2023-06-30,Activation delay
+C04530,2023-07-06,Poor network coverage
+C04530,2023-06-29,Poor network coverage
+C04530,2023-06-15,Slow data speed
+C03739,2023-06-13,Slow data speed
+C03739,2023-07-11,Activation delay
+C03739,2023-06-12,Overcharged bill
+C05449,2023-06-11,Billing discrepancy
+C05449,2023-06-26,Call drop issue
+C05449,2023-07-17,Overcharged bill
+C06632,2023-07-07,Overcharged bill
+C06632,2023-06-19,Billing discrepancy
+C01474,2023-06-08,Poor network coverage
+C01474,2023-07-24,Slow data speed
+C04797,2023-07-13,Billing discrepancy
+C04797,2023-07-15,Poor network coverage
+C04797,2023-07-16,Call drop issue
+C06607,2023-07-24,Overcharged bill
+C07767,2023-06-25,Slow data speed
+C08902,2023-06-02,Slow data speed
+C08902,2023-06-13,Billing discrepancy
+C08902,2023-06-09,Activation delay
+C04077,2023-06-03,Call drop issue
+C04077,2023-07-19,Activation delay
+C04077,2023-07-16,Billing discrepancy
+C09485,2023-07-24,Slow data speed
+C09485,2023-06-02,Poor network coverage
+C09485,2023-06-21,Overcharged bill
+C06876,2023-06-19,Slow data speed
+C06876,2023-06-26,Call drop issue
+C06876,2023-07-08,Overcharged bill
+C01990,2023-07-13,Billing discrepancy
+C02316,2023-07-24,Billing discrepancy
+C02316,2023-07-23,Billing discrepancy
+C02316,2023-07-27,Poor network coverage
+C08046,2023-06-05,Call drop issue
+C03322,2023-07-12,Call drop issue
+C03322,2023-06-11,Call drop issue
+C03340,2023-07-04,Call drop issue
+C03340,2023-06-18,Call drop issue
+C09314,2023-07-20,Billing discrepancy
+C09314,2023-07-31,Poor network coverage
+C09314,2023-06-09,Poor network coverage
+C05255,2023-06-21,Activation delay
+C05563,2023-06-15,Slow data speed
+C07193,2023-07-25,Activation delay
+C07193,2023-07-08,Poor network coverage
+C01629,2023-06-13,Call drop issue
+C01629,2023-06-19,Call drop issue
+C01629,2023-06-05,Overcharged bill
+C05482,2023-07-11,Call drop issue
+C05482,2023-07-13,Slow data speed
+C05482,2023-06-09,Call drop issue
+C05544,2023-07-10,Call drop issue
+C05544,2023-06-07,Call drop issue
+C05544,2023-07-01,Overcharged bill
+C07741,2023-07-23,Billing discrepancy
+C02265,2023-07-08,Activation delay
+C02265,2023-06-12,Poor network coverage
+C01111,2023-06-30,Activation delay
+C01111,2023-06-01,Billing discrepancy
+C00275,2023-06-08,Slow data speed
+C00275,2023-07-02,Billing discrepancy
+C00275,2023-06-10,Activation delay
+C07586,2023-06-15,Activation delay
+C07586,2023-06-01,Call drop issue
+C07586,2023-06-12,Poor network coverage
+C03468,2023-06-17,Slow data speed
+C03468,2023-07-12,Activation delay
+C03468,2023-06-11,Activation delay
+C07614,2023-07-27,Overcharged bill
+C07614,2023-06-05,Call drop issue
+C07614,2023-07-23,Activation delay
+C00933,2023-07-16,Slow data speed
+C00933,2023-06-28,Activation delay
+C04997,2023-07-01,Slow data speed
+C06359,2023-07-12,Poor network coverage
+C06832,2023-06-06,Slow data speed
+C05956,2023-06-17,Activation delay
+C05956,2023-07-03,Overcharged bill
+C09138,2023-07-24,Billing discrepancy
+C00122,2023-06-16,Call drop issue
+C00122,2023-06-19,Poor network coverage
+C00310,2023-07-30,Activation delay
+C00310,2023-07-11,Overcharged bill
+C01839,2023-06-17,Billing discrepancy
+C02474,2023-07-23,Billing discrepancy
+C02474,2023-07-30,Activation delay
+C05664,2023-06-06,Activation delay
+C08663,2023-07-02,Billing discrepancy
+C08663,2023-07-23,Activation delay
+C08461,2023-06-19,Slow data speed
+C08461,2023-07-02,Call drop issue
+C01837,2023-06-02,Activation delay
+C01837,2023-07-15,Call drop issue
+C01837,2023-07-25,Call drop issue
+C08578,2023-07-06,Activation delay
+C02781,2023-07-01,Activation delay
+C09404,2023-07-05,Call drop issue
+C09404,2023-06-08,Call drop issue
+C09404,2023-06-09,Call drop issue
+C07146,2023-06-10,Overcharged bill
+C07146,2023-06-25,Call drop issue
+C07146,2023-07-25,Overcharged bill
+C01679,2023-06-25,Slow data speed
+C01679,2023-07-30,Slow data speed
+C07876,2023-06-30,Activation delay
+C01857,2023-07-08,Activation delay
+C01857,2023-06-12,Billing discrepancy
+C01857,2023-06-12,Billing discrepancy
+C08712,2023-07-17,Overcharged bill
+C08444,2023-07-17,Poor network coverage
+C08444,2023-07-27,Slow data speed
+C08444,2023-06-09,Billing discrepancy
+C02277,2023-07-03,Overcharged bill
+C08509,2023-07-21,Call drop issue
+C01161,2023-07-17,Billing discrepancy
+C01161,2023-06-19,Slow data speed
+C01161,2023-07-15,Slow data speed
+C07770,2023-07-19,Billing discrepancy
+C07770,2023-07-14,Billing discrepancy
+C07770,2023-07-21,Activation delay
+C06522,2023-06-19,Poor network coverage
+C06522,2023-07-10,Poor network coverage
+C06068,2023-07-10,Slow data speed
+C06068,2023-07-08,Activation delay
+C06068,2023-06-11,Activation delay
+C04136,2023-07-03,Poor network coverage
+C04916,2023-06-10,Poor network coverage
+C02030,2023-07-02,Overcharged bill
+C02030,2023-07-28,Billing discrepancy
+C02030,2023-06-22,Billing discrepancy
+C09204,2023-07-31,Overcharged bill
+C09204,2023-07-10,Slow data speed
+C07436,2023-07-10,Overcharged bill
+C07436,2023-07-16,Call drop issue
+C02284,2023-07-23,Overcharged bill
+C02359,2023-07-21,Poor network coverage
+C02359,2023-06-20,Slow data speed
+C02359,2023-07-24,Billing discrepancy
+C00766,2023-06-04,Poor network coverage
+C00766,2023-06-16,Call drop issue
+C00766,2023-07-02,Call drop issue
+C02824,2023-06-04,Overcharged bill
+C02824,2023-07-13,Activation delay
+C02824,2023-07-18,Slow data speed
+C07730,2023-07-23,Overcharged bill
+C07730,2023-06-29,Billing discrepancy
+C07730,2023-06-09,Billing discrepancy
+C02646,2023-07-23,Billing discrepancy
+C01843,2023-06-04,Overcharged bill
+C01843,2023-06-12,Activation delay
+C01843,2023-07-10,Activation delay
+C03584,2023-07-27,Billing discrepancy
+C07297,2023-07-27,Billing discrepancy
+C07297,2023-07-14,Poor network coverage
+C02441,2023-07-26,Poor network coverage
+C02441,2023-06-27,Slow data speed
+C02441,2023-07-20,Call drop issue
+C03985,2023-07-07,Poor network coverage
+C03985,2023-06-27,Call drop issue
+C09143,2023-07-12,Call drop issue
+C09143,2023-07-12,Overcharged bill
+C03887,2023-06-15,Slow data speed
+C03887,2023-06-20,Poor network coverage
+C01519,2023-06-27,Call drop issue
+C09069,2023-07-12,Slow data speed
+C06563,2023-07-15,Activation delay
+C06860,2023-06-30,Activation delay
+C06860,2023-06-02,Overcharged bill
+C02886,2023-06-13,Slow data speed
+C02886,2023-06-06,Overcharged bill
+C02886,2023-06-15,Call drop issue
+C08643,2023-07-15,Call drop issue
+C08643,2023-07-06,Call drop issue
+C08643,2023-07-24,Overcharged bill
+C09056,2023-07-05,Overcharged bill
+C08202,2023-06-15,Poor network coverage
+C08202,2023-06-17,Poor network coverage
+C02540,2023-07-26,Poor network coverage
+C00149,2023-06-20,Slow data speed
+C00149,2023-06-22,Billing discrepancy
+C00149,2023-07-20,Activation delay
+C06993,2023-07-20,Activation delay
+C06993,2023-07-19,Activation delay
+C07817,2023-07-02,Slow data speed
+C07817,2023-07-21,Poor network coverage
+C02376,2023-06-28,Poor network coverage
+C02376,2023-07-22,Call drop issue
+C02879,2023-07-26,Poor network coverage
+C09158,2023-07-25,Billing discrepancy
+C09158,2023-06-16,Activation delay
+C06142,2023-07-22,Poor network coverage
+C06142,2023-07-07,Slow data speed
+C02234,2023-07-18,Activation delay
+C00263,2023-06-14,Poor network coverage
+C00263,2023-07-23,Call drop issue
+C07548,2023-06-05,Call drop issue
+C07548,2023-06-14,Overcharged bill
+C07932,2023-06-06,Poor network coverage
+C07932,2023-07-16,Poor network coverage
+C07932,2023-06-17,Activation delay
+C08492,2023-07-19,Slow data speed
+C08492,2023-07-25,Activation delay
+C06669,2023-07-07,Poor network coverage
+C06669,2023-06-06,Overcharged bill
+C06669,2023-07-02,Activation delay
+C06100,2023-07-14,Activation delay
+C06100,2023-07-20,Slow data speed
+C06100,2023-06-03,Slow data speed
+C06082,2023-07-24,Overcharged bill
+C06082,2023-06-12,Poor network coverage
+C06082,2023-06-02,Activation delay
+C00906,2023-06-14,Poor network coverage
+C00906,2023-07-01,Slow data speed
+C08710,2023-07-03,Billing discrepancy
+C02072,2023-06-15,Poor network coverage
+C02110,2023-07-19,Poor network coverage
+C02110,2023-06-17,Overcharged bill
+C08398,2023-06-24,Call drop issue
+C08398,2023-06-21,Activation delay
+C08398,2023-07-22,Activation delay
+C08969,2023-06-09,Billing discrepancy
+C01128,2023-06-23,Activation delay
+C01128,2023-07-25,Poor network coverage
+C01128,2023-07-10,Poor network coverage
+C06814,2023-06-18,Billing discrepancy
+C06814,2023-07-30,Call drop issue
+C06814,2023-06-22,Call drop issue
+C07484,2023-06-02,Overcharged bill
+C07484,2023-07-29,Slow data speed
+C03589,2023-06-06,Call drop issue
+C03589,2023-07-20,Poor network coverage
+C03589,2023-06-06,Slow data speed
+C05942,2023-06-08,Slow data speed
+C04033,2023-07-14,Slow data speed
+C05070,2023-06-29,Poor network coverage
+C07324,2023-06-23,Slow data speed
+C07324,2023-07-28,Activation delay
+C02790,2023-06-29,Slow data speed
+C02790,2023-06-13,Billing discrepancy
+C09005,2023-07-28,Overcharged bill
+C09005,2023-07-10,Poor network coverage
+C00319,2023-06-25,Billing discrepancy
+C06496,2023-07-04,Overcharged bill
+C08345,2023-07-29,Poor network coverage
+C08345,2023-07-23,Activation delay
+C04732,2023-07-29,Poor network coverage
+C04732,2023-06-24,Activation delay
+C04732,2023-06-10,Activation delay
+C07525,2023-06-02,Poor network coverage
+C07525,2023-07-09,Slow data speed
+C07525,2023-06-29,Call drop issue
+C00364,2023-06-16,Overcharged bill
+C08481,2023-07-03,Activation delay
+C04138,2023-06-27,Activation delay
+C04138,2023-07-06,Billing discrepancy
+C04138,2023-07-31,Billing discrepancy
+C01224,2023-06-05,Call drop issue
+C01224,2023-06-19,Activation delay
+C01224,2023-07-23,Call drop issue
+C01582,2023-07-24,Billing discrepancy
+C01582,2023-06-30,Overcharged bill
+C05617,2023-07-26,Poor network coverage
+C05617,2023-07-08,Activation delay
+C03312,2023-07-06,Call drop issue
+C03312,2023-07-26,Activation delay
+C03900,2023-06-25,Slow data speed
+C03900,2023-07-31,Call drop issue
+C03900,2023-06-05,Overcharged bill
+C08727,2023-07-15,Poor network coverage
+C05210,2023-06-18,Slow data speed
+C05210,2023-06-22,Overcharged bill
+C08280,2023-07-30,Overcharged bill
+C08280,2023-06-22,Billing discrepancy
+C08280,2023-06-14,Overcharged bill
+C07340,2023-06-13,Activation delay
+C07340,2023-06-27,Call drop issue
+C07340,2023-06-08,Call drop issue
+C00954,2023-06-21,Activation delay
+C00954,2023-07-23,Call drop issue
+C09182,2023-06-01,Billing discrepancy
+C09182,2023-06-13,Overcharged bill
+C02870,2023-07-16,Slow data speed
+C02870,2023-06-07,Billing discrepancy
+C03363,2023-06-20,Activation delay
+C03363,2023-06-12,Slow data speed
+C08651,2023-07-31,Call drop issue
+C08651,2023-06-12,Billing discrepancy
+C08651,2023-06-29,Call drop issue
+C01337,2023-07-31,Call drop issue
+C01337,2023-06-15,Billing discrepancy
+C01337,2023-06-12,Activation delay
+C08072,2023-06-12,Billing discrepancy
+C08072,2023-07-21,Call drop issue
+C08072,2023-06-23,Call drop issue
+C04986,2023-07-10,Slow data speed
+C04986,2023-06-03,Activation delay
+C04986,2023-06-07,Overcharged bill
+C00477,2023-06-26,Billing discrepancy
+C00477,2023-06-21,Overcharged bill
+C00477,2023-07-19,Poor network coverage
+C05959,2023-07-03,Overcharged bill
+C07283,2023-06-15,Activation delay
+C07283,2023-07-09,Overcharged bill
+C00177,2023-07-06,Call drop issue
+C00177,2023-07-03,Activation delay
+C00177,2023-06-11,Overcharged bill
+C06712,2023-07-28,Billing discrepancy
+C06712,2023-06-01,Poor network coverage
+C06712,2023-06-07,Poor network coverage
+C05407,2023-07-31,Activation delay
+C05407,2023-06-04,Call drop issue
+C05407,2023-07-28,Billing discrepancy
+C08923,2023-07-22,Billing discrepancy
+C08923,2023-06-29,Slow data speed
+C08923,2023-06-26,Slow data speed
+C08116,2023-06-02,Call drop issue
+C06924,2023-07-18,Poor network coverage
+C09493,2023-07-19,Overcharged bill
+C09493,2023-07-21,Poor network coverage
+C09493,2023-06-19,Call drop issue
+C05604,2023-07-31,Slow data speed
+C05604,2023-06-03,Billing discrepancy
+C05179,2023-07-10,Activation delay
+C05179,2023-06-29,Poor network coverage
+C05179,2023-07-31,Activation delay
+C08670,2023-07-22,Poor network coverage
+C08670,2023-07-15,Poor network coverage
+C03717,2023-07-26,Slow data speed
+C07063,2023-06-29,Overcharged bill
+C07063,2023-06-13,Poor network coverage
+C00601,2023-07-30,Activation delay
+C00601,2023-07-12,Billing discrepancy
+C09871,2023-07-22,Overcharged bill
+C09871,2023-07-10,Billing discrepancy
+C09871,2023-07-08,Poor network coverage
+C03310,2023-07-15,Slow data speed
+C06837,2023-06-26,Slow data speed
+C06837,2023-06-13,Activation delay
+C04333,2023-06-20,Poor network coverage
+C04333,2023-07-24,Call drop issue
+C05855,2023-07-02,Overcharged bill
+C05855,2023-07-11,Poor network coverage
+C05855,2023-07-05,Slow data speed
+C03810,2023-06-29,Activation delay
+C03810,2023-07-04,Slow data speed
+C03810,2023-07-15,Overcharged bill
+C03356,2023-07-15,Poor network coverage
+C05141,2023-07-18,Call drop issue
+C05141,2023-07-16,Overcharged bill
+C01744,2023-06-30,Billing discrepancy
+C05297,2023-07-26,Billing discrepancy
+C05297,2023-07-13,Poor network coverage
+C05297,2023-07-26,Poor network coverage
+C00957,2023-07-21,Slow data speed
+C09740,2023-07-03,Billing discrepancy
+C09867,2023-07-21,Overcharged bill
+C00976,2023-06-12,Billing discrepancy
+C00976,2023-06-07,Slow data speed
+C01541,2023-06-03,Overcharged bill
+C01541,2023-06-13,Poor network coverage
+C09521,2023-06-24,Billing discrepancy
+C09521,2023-06-01,Activation delay
+C09521,2023-07-01,Slow data speed
+C07204,2023-06-16,Billing discrepancy
+C07204,2023-07-05,Billing discrepancy
+C05983,2023-06-22,Overcharged bill
+C00920,2023-07-29,Overcharged bill
+C02004,2023-07-07,Slow data speed
+C02004,2023-07-27,Billing discrepancy
+C02004,2023-07-25,Slow data speed
+C00754,2023-07-09,Slow data speed
+C00754,2023-06-30,Call drop issue
+C00754,2023-06-16,Activation delay
+C04461,2023-07-15,Call drop issue
+C08729,2023-07-22,Call drop issue
+C08729,2023-06-02,Activation delay
+C08729,2023-06-03,Slow data speed
+C01434,2023-07-31,Call drop issue
+C01434,2023-06-13,Poor network coverage
+C01434,2023-06-11,Activation delay
+C00257,2023-06-22,Overcharged bill
+C00257,2023-07-16,Activation delay
+C07503,2023-06-07,Slow data speed
+C07503,2023-07-15,Activation delay
+C07503,2023-06-11,Slow data speed
+C06437,2023-06-27,Billing discrepancy
+C06437,2023-06-22,Poor network coverage
+C09440,2023-07-24,Activation delay
+C09409,2023-06-18,Overcharged bill
+C09409,2023-07-26,Call drop issue
+C02158,2023-06-23,Call drop issue
+C02158,2023-07-19,Activation delay
+C02158,2023-07-24,Activation delay
+C06834,2023-06-22,Poor network coverage
+C06834,2023-06-23,Slow data speed
+C06834,2023-07-08,Billing discrepancy
+C00053,2023-06-04,Poor network coverage
+C00053,2023-07-23,Poor network coverage
+C00053,2023-06-07,Billing discrepancy
+C03587,2023-07-28,Overcharged bill
+C03587,2023-06-12,Billing discrepancy
+C03587,2023-06-26,Call drop issue
+C00196,2023-07-26,Call drop issue
+C00196,2023-07-09,Overcharged bill
+C00948,2023-06-09,Overcharged bill
+C00948,2023-07-03,Billing discrepancy
+C00948,2023-07-09,Activation delay
+C03629,2023-07-27,Billing discrepancy
+C03629,2023-07-09,Overcharged bill
+C07580,2023-07-27,Poor network coverage
+C07580,2023-06-18,Call drop issue
+C04915,2023-07-21,Billing discrepancy
+C04915,2023-07-09,Poor network coverage
+C04162,2023-07-19,Overcharged bill
+C03062,2023-06-22,Overcharged bill
+C08605,2023-07-31,Poor network coverage
+C08605,2023-06-07,Billing discrepancy
+C06200,2023-07-22,Poor network coverage
+C06200,2023-07-04,Activation delay
+C01487,2023-07-12,Billing discrepancy
+C02893,2023-07-25,Poor network coverage
+C02893,2023-06-16,Activation delay
+C07158,2023-07-02,Billing discrepancy
+C07158,2023-06-24,Call drop issue
+C04786,2023-07-25,Poor network coverage
+C04786,2023-06-18,Activation delay
+C02472,2023-06-02,Call drop issue
+C01269,2023-06-27,Poor network coverage
+C01269,2023-07-07,Overcharged bill
+C08903,2023-06-19,Poor network coverage
+C08903,2023-07-04,Activation delay
+C08903,2023-07-09,Call drop issue
+C05872,2023-07-07,Poor network coverage
+C05872,2023-07-05,Call drop issue
+C05872,2023-06-11,Slow data speed
+C05119,2023-07-14,Call drop issue
+C09259,2023-07-14,Activation delay
+C09259,2023-06-01,Billing discrepancy
+C09259,2023-07-17,Call drop issue
+C00222,2023-07-21,Overcharged bill
+C03345,2023-07-02,Poor network coverage
+C03345,2023-07-22,Poor network coverage
+C03345,2023-06-04,Slow data speed
+C01856,2023-06-26,Activation delay
+C03918,2023-06-06,Overcharged bill
+C09828,2023-06-27,Slow data speed
+C09378,2023-07-16,Slow data speed
+C09378,2023-07-24,Slow data speed
+C09989,2023-07-24,Activation delay
+C09989,2023-07-07,Billing discrepancy
+C09989,2023-06-17,Slow data speed
+C01743,2023-07-19,Call drop issue
+C01743,2023-06-02,Call drop issue
+C00410,2023-06-06,Slow data speed
+C04086,2023-07-31,Activation delay
+C02854,2023-06-08,Activation delay
+C07865,2023-07-20,Slow data speed
+C07865,2023-07-26,Slow data speed
+C06122,2023-07-05,Slow data speed
+C07793,2023-06-12,Activation delay
+C04462,2023-07-29,Billing discrepancy
+C04462,2023-06-02,Slow data speed
+C04112,2023-07-04,Activation delay
+C04112,2023-07-03,Billing discrepancy
+C04112,2023-07-06,Activation delay
+C06818,2023-07-30,Call drop issue
+C06818,2023-07-27,Call drop issue
+C03492,2023-07-24,Call drop issue
+C05566,2023-06-08,Call drop issue
+C05566,2023-07-10,Call drop issue
+C05566,2023-07-09,Activation delay
+C05388,2023-06-21,Poor network coverage
+C05388,2023-06-11,Call drop issue
+C01562,2023-06-29,Overcharged bill
+C01562,2023-06-26,Overcharged bill
+C06731,2023-07-21,Slow data speed
+C06731,2023-06-13,Call drop issue
+C09367,2023-06-22,Billing discrepancy
+C09367,2023-07-28,Billing discrepancy
+C09367,2023-07-27,Activation delay
+C04719,2023-07-19,Slow data speed
+C04719,2023-07-17,Activation delay
+C03073,2023-07-27,Billing discrepancy
+C03073,2023-06-27,Poor network coverage
+C01261,2023-06-21,Billing discrepancy
+C01261,2023-07-18,Poor network coverage
+C08825,2023-06-11,Overcharged bill
+C08825,2023-06-14,Activation delay
+C08825,2023-06-05,Overcharged bill
+C08705,2023-06-04,Slow data speed
+C08705,2023-06-11,Overcharged bill
+C06478,2023-07-26,Call drop issue
+C00934,2023-07-31,Slow data speed
+C00934,2023-07-30,Billing discrepancy
+C00934,2023-06-21,Call drop issue
+C07860,2023-07-26,Overcharged bill
+C04727,2023-07-30,Overcharged bill
+C04727,2023-06-09,Poor network coverage
+C04727,2023-07-21,Activation delay
+C04695,2023-06-14,Poor network coverage
+C04695,2023-06-27,Poor network coverage
+C05891,2023-06-30,Overcharged bill
+C05891,2023-06-07,Slow data speed
+C03417,2023-06-01,Activation delay
+C03417,2023-06-02,Overcharged bill
+C03417,2023-07-19,Activation delay
+C06771,2023-07-01,Call drop issue
+C06771,2023-06-17,Poor network coverage
+C06771,2023-07-10,Poor network coverage
+C08546,2023-06-12,Billing discrepancy
+C08546,2023-06-08,Billing discrepancy
+C08546,2023-07-20,Slow data speed
+C08179,2023-07-09,Overcharged bill
+C07530,2023-07-28,Billing discrepancy
+C03415,2023-06-28,Billing discrepancy
+C03415,2023-07-08,Slow data speed
+C01827,2023-07-02,Overcharged bill
+C06219,2023-06-17,Overcharged bill
+C06219,2023-07-30,Billing discrepancy
+C03879,2023-07-04,Poor network coverage
+C04938,2023-06-23,Call drop issue
+C02211,2023-06-26,Slow data speed
+C02211,2023-06-17,Poor network coverage
+C02211,2023-07-02,Call drop issue
+C01533,2023-07-15,Activation delay
+C01533,2023-06-26,Overcharged bill
+C09723,2023-07-23,Activation delay
+C05013,2023-06-26,Activation delay
+C05013,2023-07-20,Overcharged bill
+C00313,2023-06-16,Overcharged bill
+C07539,2023-06-08,Activation delay
+C07539,2023-07-30,Slow data speed
+C07295,2023-06-17,Billing discrepancy
+C07295,2023-07-25,Activation delay
+C07295,2023-07-23,Overcharged bill
+C00279,2023-06-27,Slow data speed
+C02987,2023-06-16,Slow data speed
+C02987,2023-06-22,Overcharged bill
+C02987,2023-06-09,Activation delay
+C07304,2023-07-19,Poor network coverage
+C09150,2023-06-02,Activation delay
+C09150,2023-06-07,Slow data speed
+C04941,2023-07-11,Poor network coverage
+C04941,2023-06-15,Billing discrepancy
+C04941,2023-07-13,Slow data speed
+C05798,2023-07-17,Activation delay
+C05798,2023-06-20,Poor network coverage
+C05798,2023-06-21,Poor network coverage
+C07619,2023-07-24,Call drop issue
+C07619,2023-07-16,Billing discrepancy
+C08713,2023-07-21,Billing discrepancy
+C09704,2023-06-23,Slow data speed
+C09045,2023-07-01,Billing discrepancy
+C00380,2023-06-01,Overcharged bill
+C06855,2023-07-16,Activation delay
+C06855,2023-06-02,Billing discrepancy
+C06855,2023-07-14,Overcharged bill
+C08372,2023-07-09,Billing discrepancy
+C08372,2023-06-16,Activation delay
+C06757,2023-07-27,Overcharged bill
+C06757,2023-06-26,Poor network coverage
+C06757,2023-06-16,Billing discrepancy
+C06719,2023-06-09,Billing discrepancy
+C07403,2023-06-06,Billing discrepancy
+C07403,2023-06-21,Billing discrepancy
+C07403,2023-06-30,Billing discrepancy
+C07754,2023-07-27,Billing discrepancy
+C07754,2023-07-30,Poor network coverage
+C06009,2023-06-26,Call drop issue
+C06009,2023-07-23,Billing discrepancy
+C06009,2023-06-04,Billing discrepancy
+C02313,2023-07-03,Activation delay
+C02313,2023-06-24,Activation delay
+C02313,2023-06-18,Slow data speed
+C02951,2023-07-17,Call drop issue
+C02951,2023-07-05,Slow data speed
+C04170,2023-07-21,Overcharged bill
+C04170,2023-07-30,Billing discrepancy
+C04170,2023-06-13,Activation delay
+C05625,2023-07-02,Billing discrepancy
+C05625,2023-07-04,Overcharged bill
+C05625,2023-07-12,Overcharged bill
+C08443,2023-06-01,Slow data speed
+C09405,2023-07-10,Slow data speed
+C09405,2023-07-09,Slow data speed
+C09405,2023-06-05,Poor network coverage
+C05695,2023-07-23,Poor network coverage
+C03344,2023-07-28,Billing discrepancy
+C03344,2023-06-24,Billing discrepancy
+C04891,2023-06-25,Poor network coverage
+C09754,2023-07-12,Activation delay
+C09754,2023-07-31,Billing discrepancy
+C00130,2023-07-13,Poor network coverage
+C00130,2023-07-23,Billing discrepancy
+C07764,2023-07-01,Call drop issue
+C06061,2023-06-09,Poor network coverage
+C06061,2023-06-18,Call drop issue
+C06061,2023-07-24,Slow data speed
+C05861,2023-07-18,Billing discrepancy
+C09744,2023-07-19,Overcharged bill
+C09744,2023-07-17,Billing discrepancy
+C09744,2023-07-12,Activation delay
+C09541,2023-07-29,Slow data speed
+C07472,2023-06-23,Poor network coverage
+C07472,2023-07-27,Billing discrepancy
+C01037,2023-06-12,Slow data speed
+C03034,2023-06-24,Call drop issue
+C05360,2023-06-19,Activation delay
+C01107,2023-06-29,Slow data speed
+C00837,2023-07-25,Overcharged bill
+C00837,2023-06-12,Slow data speed
+C08703,2023-07-07,Activation delay
+C08703,2023-06-26,Poor network coverage
+C08703,2023-07-20,Overcharged bill
+C02278,2023-07-01,Slow data speed
+C02278,2023-06-28,Slow data speed
+C08788,2023-06-27,Slow data speed
+C08788,2023-06-12,Overcharged bill
+C04474,2023-07-17,Poor network coverage
+C04474,2023-06-16,Overcharged bill
+C05843,2023-06-26,Poor network coverage
+C05843,2023-06-06,Slow data speed
+C00757,2023-07-14,Billing discrepancy
+C08447,2023-06-04,Billing discrepancy
+C00178,2023-07-25,Activation delay
+C00178,2023-07-17,Call drop issue
+C05760,2023-07-18,Billing discrepancy
+C05760,2023-07-05,Billing discrepancy
+C09265,2023-07-29,Activation delay
+C01445,2023-06-22,Call drop issue
+C01445,2023-06-29,Overcharged bill
+C01445,2023-06-20,Overcharged bill
+C04561,2023-07-15,Poor network coverage
+C04561,2023-07-02,Overcharged bill
+C04561,2023-07-12,Poor network coverage
+C06306,2023-06-28,Billing discrepancy
+C06306,2023-06-24,Slow data speed
+C06306,2023-07-17,Poor network coverage
+C01122,2023-07-14,Poor network coverage
+C01122,2023-07-30,Overcharged bill
+C01122,2023-06-21,Call drop issue
+C04225,2023-07-21,Activation delay
+C04225,2023-06-12,Overcharged bill
+C00284,2023-06-02,Billing discrepancy
+C00588,2023-07-13,Slow data speed
+C00588,2023-07-26,Slow data speed
+C07331,2023-06-25,Billing discrepancy
+C00202,2023-07-15,Activation delay
+C00674,2023-06-09,Call drop issue
+C05028,2023-06-06,Slow data speed
+C05028,2023-06-22,Slow data speed
+C05028,2023-07-06,Billing discrepancy
+C01493,2023-07-23,Overcharged bill
+C01493,2023-06-30,Poor network coverage
+C01493,2023-07-23,Billing discrepancy
+C03507,2023-07-29,Call drop issue
+C03507,2023-07-04,Billing discrepancy
+C04892,2023-07-31,Call drop issue
+C07802,2023-07-22,Poor network coverage
+C01965,2023-07-21,Call drop issue
+C01965,2023-06-24,Billing discrepancy
+C08733,2023-06-23,Poor network coverage
+C08733,2023-06-04,Activation delay
+C01019,2023-06-05,Overcharged bill
+C00663,2023-06-21,Poor network coverage
+C00663,2023-06-08,Poor network coverage
+C00663,2023-07-25,Call drop issue
+C06861,2023-07-12,Billing discrepancy
+C06861,2023-06-23,Billing discrepancy
+C00216,2023-07-11,Billing discrepancy
+C04596,2023-07-26,Activation delay
+C00069,2023-07-14,Call drop issue
+C09501,2023-07-09,Activation delay
+C09501,2023-06-22,Poor network coverage
+C09501,2023-07-01,Overcharged bill
+C03800,2023-06-20,Call drop issue
+C03800,2023-07-12,Call drop issue
+C03800,2023-06-04,Overcharged bill
+C02754,2023-06-18,Slow data speed
+C00679,2023-06-25,Poor network coverage
+C00679,2023-06-14,Billing discrepancy
+C00679,2023-06-05,Billing discrepancy
+C09334,2023-07-27,Poor network coverage
+C09334,2023-07-04,Overcharged bill
+C01795,2023-07-24,Poor network coverage
+C01795,2023-06-15,Slow data speed
+C01795,2023-06-01,Slow data speed
+C01765,2023-07-05,Poor network coverage
+C01765,2023-07-08,Activation delay
+C03222,2023-06-04,Poor network coverage
+C03222,2023-06-06,Call drop issue
+C03897,2023-06-07,Slow data speed
+C03897,2023-07-04,Poor network coverage
+C03897,2023-07-06,Activation delay
+C09233,2023-07-24,Activation delay
+C09164,2023-06-05,Billing discrepancy
+C09164,2023-06-21,Call drop issue
+C09164,2023-06-16,Billing discrepancy
+C04115,2023-06-14,Call drop issue
+C04066,2023-07-26,Call drop issue
+C04066,2023-06-15,Overcharged bill
+C06161,2023-06-03,Call drop issue
+C06161,2023-06-29,Overcharged bill
+C06161,2023-07-11,Billing discrepancy
+C04437,2023-07-08,Billing discrepancy
+C04437,2023-07-26,Call drop issue
+C04437,2023-07-14,Slow data speed
+C04453,2023-06-26,Billing discrepancy
+C04453,2023-07-10,Slow data speed
+C05651,2023-07-12,Slow data speed
+C05651,2023-07-27,Billing discrepancy
+C03199,2023-06-21,Activation delay
+C00611,2023-07-27,Activation delay
+C04999,2023-07-21,Billing discrepancy
+C00207,2023-07-12,Activation delay
+C00207,2023-07-04,Activation delay
+C02495,2023-06-07,Overcharged bill
+C02495,2023-07-25,Billing discrepancy
+C02495,2023-07-12,Activation delay
+C07543,2023-06-26,Call drop issue
+C05596,2023-06-29,Call drop issue
+C07482,2023-07-12,Poor network coverage
+C06031,2023-06-15,Poor network coverage
+C06031,2023-07-22,Billing discrepancy
+C06031,2023-07-05,Call drop issue
+C07381,2023-07-17,Poor network coverage
+C07381,2023-06-17,Activation delay
+C06511,2023-06-04,Call drop issue
+C06511,2023-07-26,Overcharged bill
+C04694,2023-06-11,Poor network coverage
+C04694,2023-07-31,Activation delay
+C00367,2023-07-18,Call drop issue
+C08233,2023-07-28,Billing discrepancy
+C09555,2023-07-10,Poor network coverage
+C04684,2023-07-21,Billing discrepancy
+C08002,2023-07-09,Call drop issue
+C08002,2023-07-07,Billing discrepancy
+C08002,2023-07-08,Slow data speed
+C08078,2023-07-24,Slow data speed
+C04574,2023-06-30,Overcharged bill
+C04574,2023-07-02,Activation delay
+C04574,2023-06-07,Call drop issue
+C02857,2023-07-19,Billing discrepancy
+C07350,2023-06-27,Poor network coverage
+C07350,2023-07-01,Call drop issue
+C02049,2023-06-15,Overcharged bill
+C00194,2023-07-06,Overcharged bill
+C00194,2023-07-12,Billing discrepancy
+C07452,2023-06-29,Slow data speed
+C08739,2023-07-02,Call drop issue
+C09686,2023-06-22,Billing discrepancy
+C09686,2023-06-19,Overcharged bill
+C09686,2023-07-06,Slow data speed
+C05818,2023-07-06,Billing discrepancy
+C05818,2023-07-10,Billing discrepancy
+C05950,2023-06-03,Overcharged bill
+C01281,2023-06-12,Activation delay
+C01281,2023-07-08,Poor network coverage
+C01281,2023-07-19,Billing discrepancy
+C02224,2023-06-22,Billing discrepancy
+C07030,2023-07-05,Call drop issue
+C07030,2023-07-17,Poor network coverage
+C08738,2023-06-27,Billing discrepancy
+C08738,2023-06-27,Overcharged bill
+C08738,2023-07-30,Slow data speed
+C00493,2023-07-02,Poor network coverage
+C00493,2023-07-05,Billing discrepancy
+C00493,2023-06-05,Poor network coverage
+C01704,2023-06-15,Call drop issue
+C01704,2023-06-11,Slow data speed
+C02071,2023-06-19,Billing discrepancy
+C02071,2023-07-31,Activation delay
+C02071,2023-06-30,Overcharged bill
+C09353,2023-06-10,Poor network coverage
+C03075,2023-07-12,Slow data speed
+C06205,2023-07-11,Slow data speed
+C07922,2023-06-06,Call drop issue
+C04471,2023-07-15,Billing discrepancy
+C04471,2023-07-02,Activation delay
+C09532,2023-06-28,Slow data speed
+C09532,2023-07-04,Slow data speed
+C09532,2023-07-31,Billing discrepancy
+C05471,2023-07-28,Overcharged bill
+C04184,2023-07-02,Overcharged bill
+C02227,2023-07-18,Billing discrepancy
+C02227,2023-07-23,Call drop issue
+C01917,2023-07-17,Slow data speed
+C09161,2023-07-14,Slow data speed
+C09161,2023-07-16,Billing discrepancy
+C03898,2023-07-22,Call drop issue
+C03898,2023-06-13,Call drop issue
+C02703,2023-06-03,Call drop issue
+C02703,2023-07-23,Poor network coverage
+C02703,2023-06-08,Poor network coverage
+C04021,2023-07-26,Billing discrepancy
+C00774,2023-07-20,Slow data speed
+C00774,2023-07-23,Call drop issue
+C06799,2023-07-23,Slow data speed
+C06799,2023-06-11,Billing discrepancy
+C06799,2023-06-21,Call drop issue
+C09543,2023-06-22,Activation delay
+C07077,2023-07-04,Billing discrepancy
+C07077,2023-06-04,Slow data speed
+C07077,2023-06-29,Poor network coverage
+C08741,2023-07-10,Overcharged bill
+C08741,2023-07-06,Call drop issue
+C06079,2023-06-28,Billing discrepancy
+C06079,2023-06-07,Billing discrepancy
+C06079,2023-06-07,Activation delay
+C09975,2023-06-03,Slow data speed
+C09975,2023-06-13,Slow data speed
+C09975,2023-07-17,Overcharged bill
+C02331,2023-06-03,Billing discrepancy
+C03046,2023-06-22,Billing discrepancy
+C03046,2023-07-13,Overcharged bill
+C05302,2023-06-05,Billing discrepancy
+C07232,2023-07-25,Poor network coverage
+C07232,2023-07-24,Poor network coverage
+C06179,2023-07-11,Poor network coverage
+C06179,2023-07-14,Overcharged bill
+C06179,2023-06-28,Activation delay
+C04958,2023-06-01,Poor network coverage
+C04958,2023-06-24,Activation delay
+C04958,2023-06-20,Slow data speed
+C06202,2023-06-05,Call drop issue
+C03287,2023-07-10,Billing discrepancy
+C03287,2023-06-16,Poor network coverage
+C03287,2023-07-20,Billing discrepancy
+C00170,2023-07-07,Billing discrepancy
+C04726,2023-06-27,Poor network coverage
+C04726,2023-06-03,Poor network coverage
+C04726,2023-06-02,Poor network coverage
+C01968,2023-07-24,Billing discrepancy
+C01968,2023-06-19,Activation delay
+C01968,2023-07-02,Call drop issue
+C07667,2023-06-03,Poor network coverage
+C07667,2023-06-14,Poor network coverage
+C07667,2023-07-25,Call drop issue
+C08680,2023-07-28,Call drop issue
+C08680,2023-06-26,Billing discrepancy
+C08680,2023-07-11,Overcharged bill
+C06983,2023-07-19,Activation delay
+C06983,2023-07-12,Overcharged bill
+C06983,2023-07-23,Overcharged bill
+C03915,2023-07-17,Call drop issue
+C03915,2023-06-08,Poor network coverage
+C03915,2023-07-10,Billing discrepancy
+C08420,2023-06-06,Slow data speed
+C05313,2023-07-26,Billing discrepancy
+C05313,2023-07-02,Call drop issue
+C05313,2023-07-26,Slow data speed
+C08225,2023-06-19,Call drop issue
+C08225,2023-07-26,Overcharged bill
+C03280,2023-07-07,Slow data speed
+C03280,2023-06-15,Billing discrepancy
+C02569,2023-06-04,Activation delay
+C02569,2023-07-11,Activation delay
+C09567,2023-06-24,Overcharged bill
+C09567,2023-06-11,Activation delay
+C00289,2023-07-15,Call drop issue
+C00289,2023-07-13,Call drop issue
+C02435,2023-06-06,Billing discrepancy
+C02435,2023-06-26,Call drop issue
+C02435,2023-07-08,Slow data speed
+C06414,2023-07-11,Poor network coverage
+C07935,2023-07-02,Overcharged bill
+C09167,2023-06-02,Call drop issue
+C04015,2023-07-25,Overcharged bill
+C04015,2023-06-12,Overcharged bill
+C04015,2023-07-20,Slow data speed
+C08210,2023-06-09,Call drop issue
+C08210,2023-07-11,Call drop issue
+C02403,2023-06-18,Overcharged bill
+C02403,2023-07-09,Overcharged bill
+C02293,2023-06-19,Billing discrepancy
+C06018,2023-07-08,Overcharged bill
+C06018,2023-06-06,Poor network coverage
+C06018,2023-07-12,Overcharged bill
+C05367,2023-07-05,Overcharged bill
+C05367,2023-07-06,Poor network coverage
+C03481,2023-06-20,Activation delay
+C03481,2023-07-06,Billing discrepancy
+C06120,2023-06-28,Poor network coverage
+C05310,2023-06-03,Overcharged bill
+C09124,2023-07-28,Overcharged bill
+C09124,2023-07-04,Call drop issue
+C09580,2023-06-28,Activation delay
+C09580,2023-07-03,Overcharged bill
+C05061,2023-06-05,Overcharged bill
+C05061,2023-07-02,Billing discrepancy
+C03013,2023-07-10,Poor network coverage
+C03013,2023-06-05,Poor network coverage
+C04142,2023-07-15,Activation delay
+C04142,2023-07-29,Call drop issue
+C04142,2023-06-07,Slow data speed
+C04748,2023-07-20,Slow data speed
+C04748,2023-07-23,Billing discrepancy
+C01565,2023-07-05,Overcharged bill
+C08561,2023-07-29,Overcharged bill
+C08561,2023-06-13,Billing discrepancy
+C08561,2023-06-07,Activation delay
+C02136,2023-07-24,Overcharged bill
+C02602,2023-07-16,Overcharged bill
+C02602,2023-07-29,Overcharged bill
+C02602,2023-07-18,Poor network coverage
+C04458,2023-06-13,Slow data speed
+C03593,2023-07-12,Overcharged bill
+C03593,2023-06-24,Activation delay
+C03593,2023-07-23,Billing discrepancy
+C02836,2023-07-31,Slow data speed
+C02836,2023-07-16,Overcharged bill
+C09214,2023-06-07,Billing discrepancy
+C09214,2023-07-31,Call drop issue
+C02733,2023-06-03,Overcharged bill
+C02733,2023-06-29,Slow data speed
+C01985,2023-07-28,Slow data speed
+C04424,2023-06-19,Billing discrepancy
+C04424,2023-07-04,Billing discrepancy
+C04424,2023-06-20,Overcharged bill
+C09636,2023-07-04,Slow data speed
+C09636,2023-06-11,Overcharged bill
+C09636,2023-07-03,Overcharged bill
+C04307,2023-07-28,Activation delay
+C04307,2023-06-21,Overcharged bill
+C04307,2023-07-06,Billing discrepancy
+C05994,2023-06-24,Overcharged bill
+C05994,2023-06-19,Call drop issue
+C05994,2023-07-25,Slow data speed
+C02291,2023-07-27,Overcharged bill
+C02291,2023-07-12,Billing discrepancy
+C02291,2023-06-11,Activation delay
+C07139,2023-06-04,Slow data speed
+C07139,2023-07-22,Billing discrepancy
+C07139,2023-07-25,Call drop issue
+C06090,2023-07-29,Activation delay
+C06090,2023-07-27,Billing discrepancy
+C09115,2023-07-19,Call drop issue
+C01414,2023-07-25,Call drop issue
+C01414,2023-06-27,Activation delay
+C01414,2023-06-06,Activation delay
+C03115,2023-07-30,Slow data speed
+C03115,2023-06-14,Poor network coverage
+C03115,2023-07-03,Billing discrepancy
+C02493,2023-07-13,Call drop issue
+C02493,2023-07-06,Activation delay
+C02493,2023-06-24,Call drop issue
+C09968,2023-06-15,Call drop issue
+C09968,2023-07-20,Call drop issue
+C09968,2023-07-03,Poor network coverage
+C09035,2023-07-17,Overcharged bill
+C09035,2023-06-03,Call drop issue
+C09035,2023-07-02,Call drop issue
+C07087,2023-07-25,Poor network coverage
+C07087,2023-06-21,Poor network coverage
+C07087,2023-07-01,Overcharged bill
+C05267,2023-07-27,Poor network coverage
+C05267,2023-07-02,Slow data speed
+C05267,2023-07-16,Billing discrepancy
+C00486,2023-06-14,Poor network coverage
+C00486,2023-07-21,Call drop issue
+C00486,2023-07-09,Overcharged bill
+C07567,2023-06-07,Call drop issue
+C07567,2023-06-12,Call drop issue
+C01889,2023-07-25,Overcharged bill
+C01889,2023-06-22,Activation delay
+C06034,2023-07-14,Poor network coverage
+C07490,2023-07-28,Poor network coverage
+C05629,2023-07-01,Slow data speed
+C05629,2023-07-15,Slow data speed
+C00653,2023-06-24,Activation delay
+C00653,2023-07-16,Poor network coverage
+C00653,2023-07-08,Overcharged bill
+C08358,2023-06-03,Activation delay
+C03438,2023-07-22,Billing discrepancy
+C01571,2023-06-15,Call drop issue
+C01571,2023-07-10,Activation delay
+C01571,2023-07-08,Billing discrepancy
+C05841,2023-06-19,Slow data speed
+C06301,2023-07-03,Activation delay
+C02850,2023-07-24,Call drop issue
+C02850,2023-06-27,Billing discrepancy
+C00968,2023-07-12,Overcharged bill
+C00968,2023-07-11,Slow data speed
+C00968,2023-06-13,Activation delay
+C01919,2023-07-12,Call drop issue
+C01919,2023-06-02,Billing discrepancy
+C00144,2023-06-04,Slow data speed
+C02145,2023-07-04,Billing discrepancy
+C02145,2023-07-22,Billing discrepancy
+C02145,2023-07-28,Overcharged bill
+C01772,2023-06-03,Call drop issue
+C01974,2023-06-17,Slow data speed
+C03328,2023-06-06,Overcharged bill
+C03328,2023-07-05,Billing discrepancy
+C07391,2023-07-21,Overcharged bill
+C07391,2023-07-22,Slow data speed
+C07391,2023-06-04,Activation delay
+C00113,2023-07-22,Slow data speed
+C00113,2023-06-24,Billing discrepancy
+C08307,2023-07-09,Activation delay
+C08307,2023-06-18,Slow data speed
+C04072,2023-06-23,Billing discrepancy
+C07645,2023-06-02,Call drop issue
+C07645,2023-06-21,Call drop issue
+C07645,2023-07-14,Overcharged bill
+C09520,2023-06-29,Call drop issue
+C09520,2023-06-30,Call drop issue
+C09520,2023-07-30,Poor network coverage
+C00317,2023-07-25,Billing discrepancy
+C00317,2023-07-25,Billing discrepancy
+C00317,2023-06-17,Activation delay
+C06518,2023-06-10,Activation delay
+C00875,2023-06-09,Billing discrepancy
+C03070,2023-07-16,Slow data speed
+C03070,2023-06-08,Billing discrepancy
+C03070,2023-07-06,Billing discrepancy
+C05773,2023-06-02,Slow data speed
+C05773,2023-06-13,Activation delay
+C06429,2023-06-07,Slow data speed
+C06429,2023-06-25,Billing discrepancy
+C06429,2023-06-29,Billing discrepancy
+C09905,2023-06-03,Slow data speed
+C09905,2023-06-05,Activation delay
+C09905,2023-07-22,Poor network coverage
+C01911,2023-06-29,Activation delay
+C01911,2023-06-01,Overcharged bill
+C01911,2023-07-28,Poor network coverage
+C03490,2023-06-06,Slow data speed
+C03490,2023-06-15,Slow data speed
+C03490,2023-06-15,Slow data speed
+C07996,2023-07-30,Slow data speed
+C07996,2023-07-21,Activation delay
+C07996,2023-07-02,Activation delay
+C02090,2023-06-28,Poor network coverage
+C02090,2023-07-22,Overcharged bill
+C04234,2023-07-13,Billing discrepancy
+C02916,2023-07-10,Billing discrepancy
+C02916,2023-06-16,Billing discrepancy
+C02916,2023-06-17,Activation delay
+C02485,2023-07-06,Slow data speed
+C02485,2023-07-25,Billing discrepancy
+C02485,2023-07-30,Poor network coverage
+C01788,2023-07-28,Call drop issue
+C01788,2023-06-15,Activation delay
+C01665,2023-06-27,Activation delay
+C03085,2023-06-12,Call drop issue
+C01044,2023-06-13,Poor network coverage
+C01044,2023-07-31,Billing discrepancy
+C02505,2023-06-15,Activation delay
+C02505,2023-07-09,Slow data speed
+C02505,2023-06-28,Call drop issue
+C07867,2023-07-25,Slow data speed
+C07867,2023-06-10,Poor network coverage
+C07867,2023-07-08,Overcharged bill
+C03647,2023-06-01,Overcharged bill
+C03647,2023-06-17,Call drop issue
+C08089,2023-07-09,Billing discrepancy
+C08089,2023-06-13,Poor network coverage
+C02120,2023-06-23,Activation delay
+C02120,2023-06-01,Slow data speed
+C02120,2023-07-20,Activation delay
+C00522,2023-06-16,Call drop issue
+C04932,2023-06-26,Activation delay
+C04932,2023-06-09,Billing discrepancy
+C06132,2023-06-29,Call drop issue
+C06132,2023-07-07,Activation delay
+C09500,2023-06-22,Activation delay
+C08052,2023-06-22,Overcharged bill
+C08052,2023-07-18,Overcharged bill
+C09073,2023-06-30,Slow data speed
+C09073,2023-07-19,Overcharged bill
+C03331,2023-07-18,Overcharged bill
+C03331,2023-06-25,Overcharged bill
+C04326,2023-07-11,Call drop issue
+C00905,2023-06-05,Activation delay
+C00905,2023-06-05,Activation delay
+C05257,2023-06-06,Overcharged bill
+C01752,2023-07-25,Poor network coverage
+C01752,2023-06-14,Call drop issue
+C01752,2023-07-06,Poor network coverage
+C02603,2023-07-09,Billing discrepancy
+C02603,2023-07-04,Poor network coverage
+C02603,2023-07-28,Overcharged bill
+C03746,2023-06-26,Poor network coverage
+C03746,2023-07-26,Poor network coverage
+C03746,2023-06-07,Poor network coverage
+C04056,2023-07-05,Activation delay
+C04056,2023-06-17,Overcharged bill
+C04056,2023-06-17,Billing discrepancy
+C02366,2023-06-18,Call drop issue
+C02366,2023-07-23,Call drop issue
+C02366,2023-07-12,Call drop issue
+C03480,2023-06-10,Activation delay
+C07198,2023-06-21,Slow data speed
+C07198,2023-06-24,Call drop issue
+C09891,2023-06-21,Overcharged bill
+C09891,2023-07-26,Billing discrepancy
+C05473,2023-07-05,Billing discrepancy
+C05473,2023-07-18,Slow data speed
+C08426,2023-07-30,Slow data speed
+C08426,2023-07-26,Activation delay
+C08426,2023-07-21,Overcharged bill
+C01246,2023-06-04,Slow data speed
+C01246,2023-07-27,Poor network coverage
+C01246,2023-07-17,Billing discrepancy
+C07073,2023-06-05,Call drop issue
+C07073,2023-07-09,Poor network coverage
+C07073,2023-07-24,Activation delay
+C06777,2023-06-05,Call drop issue
+C06777,2023-06-16,Activation delay
+C06777,2023-07-05,Poor network coverage
+C01496,2023-06-26,Poor network coverage
+C09110,2023-06-04,Billing discrepancy
+C09110,2023-06-15,Poor network coverage
+C04551,2023-07-23,Poor network coverage
+C07769,2023-07-05,Activation delay
+C07769,2023-06-07,Slow data speed
+C07769,2023-06-25,Billing discrepancy
+C05721,2023-06-26,Poor network coverage
+C05721,2023-07-13,Slow data speed
+C01637,2023-07-12,Call drop issue
+C01637,2023-07-31,Overcharged bill
+C05715,2023-06-10,Billing discrepancy
+C05715,2023-06-11,Billing discrepancy
+C05715,2023-06-14,Billing discrepancy
+C09770,2023-06-22,Overcharged bill
+C09770,2023-07-28,Slow data speed
+C09770,2023-07-18,Billing discrepancy
+C09308,2023-07-10,Overcharged bill
+C09308,2023-07-11,Slow data speed
+C04595,2023-07-30,Overcharged bill
+C01767,2023-06-02,Poor network coverage
+C01767,2023-06-27,Overcharged bill
+C01767,2023-07-17,Slow data speed
+C00666,2023-06-23,Overcharged bill
+C00666,2023-07-28,Poor network coverage
+C09511,2023-06-14,Slow data speed
+C05223,2023-06-17,Slow data speed
+C04607,2023-06-07,Call drop issue
+C04607,2023-06-18,Activation delay
+C04607,2023-06-23,Slow data speed
+C08282,2023-06-22,Activation delay
+C07137,2023-06-05,Slow data speed
+C07137,2023-07-03,Poor network coverage
+C07137,2023-07-01,Slow data speed
+C03364,2023-06-07,Activation delay
+C03364,2023-06-21,Activation delay
+C03364,2023-07-26,Activation delay
+C05431,2023-06-20,Overcharged bill
+C05431,2023-06-21,Overcharged bill
+C05431,2023-07-15,Overcharged bill
+C04880,2023-06-14,Call drop issue
+C04880,2023-07-21,Overcharged bill
+C04276,2023-07-21,Call drop issue
+C04421,2023-06-16,Overcharged bill
+C05552,2023-06-24,Overcharged bill
+C05552,2023-07-30,Activation delay
+C05552,2023-06-15,Poor network coverage
+C08260,2023-06-03,Activation delay
+C08260,2023-06-17,Call drop issue
+C08260,2023-07-09,Call drop issue
