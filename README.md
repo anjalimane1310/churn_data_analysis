@@ -21,8 +21,8 @@ This project demonstrates an end-to-end data pipeline and analytical workflow us
 ```
 telecom-churn-risk-pyspark/
 ├── notebooks/
-│   ├── 1_data_transformation.ipynb     ← ETL & churn risk logic
-│   └── 2_churn_sql_analysis.ipynb      ← SQL insights on churn data
+│   ├── customer_churn_risk_transformation.py     ← ETL & churn risk logic
+│   └── 2_churn_sql_analysis.py      ← SQL insights on churn data
 ├── data/
 │   └── churn_final.csv                 ← Cleaned, labeled dataset
 ├── README.md
